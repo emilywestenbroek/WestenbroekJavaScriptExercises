@@ -24,37 +24,22 @@
 // }
 
 //******************Exercise 3*******************
-// Write a while loop that will prompt the user if they would like to print their name. If the
-// answer is yes, log their name to the console then prompt them if they would like to print
-// their name again. If yes, log their name to the console again but this time add an
-// exclamation point at the end of the string. Continue to add an exclamation point for every
-// time the user agrees to wanting to print his or her name.
-// Prompt: ‘Would you like to print your name?’ > 'yes'
-// Output: 'Hello. My name is Adam'
-// Prompt: ‘Would you like to print this again?’ > 'yes'
-// Output: ‘Hello. My name is Adam!'
-// Prompt: ‘Would you like to print this again?’ > 'yes'
-// Output: 'Hello. My name is Adam!!'
-// Prompt: ‘Would you like to print this again?’ > 'no'
 
 // var name = prompt("What is your name?");
 // var ans = prompt("Would you like to print your name?");
 // var accum = name
-
+//
 // while (ans === "yes") {
-//  console.log(name);
-  // ans = prompt("Would you like to print your name again?");
-  // accum = accum + "!";
-  // console.log (accum);
+//   console.log (accum);
+//   ans = prompt("Would you like to print your name again?");
+//   accum = accum + "!";
 // }
-
+//
 // if (ans === "no") {
-  // console.log("");
+//   console.log("");
 // }
-
 
 //******************Exercise​ ​Four******************** 
-
 
 // var morningMeal = "Since it is morning, you should be eating breakfast. We suggest eggs and toast.";
 // var noonMeal = "Since it is noon, you should be eating lunch. We suggest a salad.";
